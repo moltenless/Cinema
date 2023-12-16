@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jx424atCwuMXtk9DQbIAet5ESnCx7fw1PFR1+pnP21JJfKJy3+EXv2w+c38oVz6Y5AmZhBJB1BUr7GvmwKyX+g==",
+  "dgSpecHash": "LbLXTLwKCWuDzBntA4b30/Yz/Ls7ZoO67iZPo9vJvW6FrIlCwXFc5/EO1HWhQVVVnk8hZa1qDNH/A0O/+Ijxxg==",
   "success": true,
-  "projectFilePath": "D:\\Універ\\трпз\\Cinema\\DAL\\DAL.csproj",
+  "projectFilePath": "D:\\C# projects\\CinemaRemoteClone\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",

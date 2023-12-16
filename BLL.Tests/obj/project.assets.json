@@ -6585,11 +6585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Універ\\трпз\\Cinema\\BLL.Tests\\BLL.Tests.csproj",
+      "projectUniqueName": "D:\\C# projects\\CinemaRemoteClone\\BLL.Tests\\BLL.Tests.csproj",
       "projectName": "BLL.Tests",
-      "projectPath": "D:\\Універ\\трпз\\Cinema\\BLL.Tests\\BLL.Tests.csproj",
+      "projectPath": "D:\\C# projects\\CinemaRemoteClone\\BLL.Tests\\BLL.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Універ\\трпз\\Cinema\\BLL.Tests\\obj\\",
+      "outputPath": "D:\\C# projects\\CinemaRemoteClone\\BLL.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6606,14 +6606,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Універ\\трпз\\Cinema\\BLL\\BLL.csproj": {
-              "projectPath": "D:\\Універ\\трпз\\Cinema\\BLL\\BLL.csproj"
+            "D:\\C# projects\\CinemaRemoteClone\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\C# projects\\CinemaRemoteClone\\BLL\\BLL.csproj"
             },
-            "D:\\Універ\\трпз\\Cinema\\CCL\\CCL.csproj": {
-              "projectPath": "D:\\Універ\\трпз\\Cinema\\CCL\\CCL.csproj"
+            "D:\\C# projects\\CinemaRemoteClone\\CCL\\CCL.csproj": {
+              "projectPath": "D:\\C# projects\\CinemaRemoteClone\\CCL\\CCL.csproj"
             },
-            "D:\\Універ\\трпз\\Cinema\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\Універ\\трпз\\Cinema\\DAL\\DAL.csproj"
+            "D:\\C# projects\\CinemaRemoteClone\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\C# projects\\CinemaRemoteClone\\DAL\\DAL.csproj"
             }
           }
         }
@@ -6665,7 +6665,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

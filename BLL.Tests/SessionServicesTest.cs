@@ -46,14 +46,13 @@ namespace BLL.Tests
         [Fact]
         public void GetSessions_SessionFromDAL_CorrectMappingToSessionDTO()
         {
-            // Arrange
             User user = new Director(1, "test", 1);
             SecurityContext.SetUser(user);
             var sessionService = GetSessionService();
-            // Act
+
             var list = sessionService.GetSessions();
             SessionDTO actualSessionDto =list.First();
-            // Assert
+
             Assert.True(
             actualSessionDto.Session_id == 1
             && actualSessionDto.Session_name == "testN"

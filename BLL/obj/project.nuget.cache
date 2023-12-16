@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wDCqsgZTJBQVCN8hPp6HywCmDwWkajM+Vr2vBjomErV3zOorYVcHuiGI5G995iWjcbjDgW97qawa3OTU70fAbw==",
+  "dgSpecHash": "HG1n7kP7prnxDk4XdUFBPFTzmIUn3566l+hvEUhC4utnmmku69PzHuudv1uW7XGfUYMli41JgaQaOYziDDb9vg==",
   "success": true,
-  "projectFilePath": "D:\\Універ\\трпз\\Cinema\\BLL\\BLL.csproj",
+  "projectFilePath": "D:\\C# projects\\CinemaRemoteClone\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
