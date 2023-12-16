@@ -1,0 +1,15 @@
+D:\Універ\трпз\Cinema\CCL\bin\Debug\net6.0\CCL.deps.json
+D:\Універ\трпз\Cinema\CCL\bin\Debug\net6.0\CCL.dll
+D:\Універ\трпз\Cinema\CCL\bin\Debug\net6.0\CCL.pdb
+D:\Універ\трпз\Cinema\CCL\bin\Debug\net6.0\DAL.dll
+D:\Універ\трпз\Cinema\CCL\bin\Debug\net6.0\DAL.pdb
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\CCL.csproj.AssemblyReference.cache
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\CCL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\CCL.AssemblyInfoInputs.cache
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\CCL.AssemblyInfo.cs
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\CCL.csproj.CoreCompileInputs.cache
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\CCL.csproj.CopyComplete
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\CCL.dll
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\refint\CCL.dll
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\CCL.pdb
+D:\Універ\трпз\Cinema\CCL\obj\Debug\net6.0\ref\CCL.dll
